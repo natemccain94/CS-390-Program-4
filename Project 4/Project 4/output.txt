@@ -1,0 +1,4 @@
+The number of regular files is: 11 
+The number of directory files is: 9 
+The total number of bytes required for the entire directory is: 16362891 
+The total number of blocks required for the entire directory is: 31992 
